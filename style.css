@@ -1,0 +1,124 @@
+.text{
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+body{
+
+    font-family: "Bytesized", sans-serif;
+    background-color: rgb(0, 0, 0);
+
+}
+
+.B{
+
+    font-family: "Bytesized", sans-serif;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    cursor:cell;
+    color: rgb(255, 255, 255);
+    background-color: black;
+    
+}
+
+.dialogue{
+
+    font-family: "Bytesized", sans-serif;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    cursor:cell;
+    color: rgb(255, 255, 255);
+    background-color: black;
+
+
+}
+
+
+.optionButton{
+
+    font-family: "Bytesized", sans-serif;
+    display: block;
+    margin: auto;
+    margin-right: 500px;
+    cursor:cell;
+    color: rgb(255, 255, 255);
+    background-color: black;
+    
+}
+
+.optionButton2{
+
+    font-family: "Bytesized", sans-serif;
+    display: block;
+    margin: auto;
+    margin-left: 500px;
+    margin-top: -40px;
+    cursor:cell;
+    color: rgb(255, 255, 255);
+    background-color: black;
+    
+}
+
+/* ------------------------------------------------------------- */
+
+.one{
+
+    font-family: "Bytesized", sans-serif;
+    display: block;
+    margin-left: 200px;
+    margin-top: -1px;
+    cursor:cell;
+    color: rgb(255, 255, 255);
+    background-color: black;
+    
+}
+
+.two{
+
+    font-family: "Bytesized", sans-serif;
+    display: block;
+    margin-left: 400px;
+    margin-top: -21px;
+    cursor:cell;
+    color: rgb(255, 255, 255);
+    background-color: black;
+    
+}
+
+.three{
+
+    font-family: "Bytesized", sans-serif;
+    display: block;
+    margin-left: 1200px;
+    margin-top: -17px;
+    cursor:cell;
+    color: rgb(255, 255, 255);
+    background-color: black;
+    
+}
+
+.four{
+
+    font-family: "Bytesized", sans-serif;
+    display: block;
+    margin-left: 1400px;
+    margin-top: -20px;
+    cursor:cell;
+    color: rgb(255, 255, 255);
+    background-color: black;
+    
+}
+
+/* ------------------------------------------------------------- */
+
+.gun{
+    
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Bytesized&display=swap');
